@@ -8,8 +8,8 @@ Skráið 5–7 notendaverkefni (verk) sem þið notið við rýnina. Númerið �
 
 | # | Heiti verks | Stutt lýsing á aðgerð/markmiði | Slóð(ir) sem prófaðar voru |
 |---|-------------|--------------------------------|-----------------------------|
-| 1 | örugg innskráning       | Innskráningarhlekkir eru á https                         |       http://site.com/login, https://site.com/login                      |
-| 2 | tæma körfu  |   Notandinn á að geta tæmt alla hluti úr körfunni í einu|  https://site.com/cart                          |
+| 1 | Finna tíma á netinu      |  Notandi á að geta bókað tíma auðveldlega                    |       https://www.tbr.is/                  |
+| 2 | Finna upplýsingar  | Notandi á að geta fundið upplýsingar auðveldlega  |                      | https://www.tbr.is/
 | 3 |             |                                |                             |
 | 4 |             |                                |                             |
 | 5 |             |                                |                             |
