@@ -8,9 +8,9 @@ Skráið 5–7 notendaverkefni (verk) sem þið notið við rýnina. Númerið �
 
 | # | Heiti verks | Stutt lýsing á aðgerð/markmiði | Slóð(ir) sem prófaðar voru |
 |---|-------------|--------------------------------|-----------------------------|
-| 1 | Finna tíma á netinu      |  Notandi á að geta bókað tíma auðveldlega                    |       https://www.tbr.is/                  |
-| 2 | Finna upplýsingar  | Notandi á að geta fundið upplýsingar auðveldlega  |                      | https://www.tbr.is/
-| 3 |             |                                |                             |
+| 1 | Finna tíma á netinu      | Notandi á að geta bókað tíma auðveldlega                                |       https://www.tbr.is/                  |
+| 2 | Finna upplýsingar        | Notandi á að geta fundið upplýsingar auðveldlega t.d. hvenær tímar eru  |       https://www.tbr.is/                  | 
+| 3 | Afrita upplýsingar?      | Notandi ætti að geta afritað gögn af vefsíðunni t.d. verð á tíma        |       https://www.tbr.is/                  |
 | 4 |             |                                |                             |
 | 5 |             |                                |                             |
 | 6 |             |                                |                             |
